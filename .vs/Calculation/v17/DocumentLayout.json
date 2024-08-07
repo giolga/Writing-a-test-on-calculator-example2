@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikey\\source\\repos\\Calculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EABBF2C-8C5F-4D34-8850-26917E1490D0}|Web\\Web.csproj|c:\\users\\mikey\\source\\repos\\calculation\\web\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EABBF2C-8C5F-4D34-8850-26917E1490D0}|Web\\Web.csproj|solutionrelative:web\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F0595-1989-41A0-A087-93228DDF79AE}|Calculation\\Calculation.csproj|c:\\users\\mikey\\source\\repos\\calculation\\calculation\\divisiontesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F0595-1989-41A0-A087-93228DDF79AE}|Calculation\\Calculation.csproj|solutionrelative:calculation\\divisiontesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0CF4E4-1FCA-4E9C-A6AE-02E849D5D048}|Domain\\Domain.csproj|c:\\users\\mikey\\source\\repos\\calculation\\domain\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0CF4E4-1FCA-4E9C-A6AE-02E849D5D048}|Domain\\Domain.csproj|solutionrelative:domain\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivisionController.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Web\\Controllers\\DivisionController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\DivisionController.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Web\\Controllers\\DivisionController.cs",
+              "RelativeToolTip": "Web\\Controllers\\DivisionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:58:12.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Domain\\Calculator.cs",
+              "RelativeDocumentMoniker": "Domain\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Domain\\Calculator.cs",
+              "RelativeToolTip": "Domain\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:48:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivisionTesting.cs",
+              "DocumentMoniker": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Calculation\\DivisionTesting.cs",
+              "RelativeDocumentMoniker": "Calculation\\DivisionTesting.cs",
+              "ToolTip": "C:\\Users\\Mikey\\source\\repos\\Calculation\\Calculation\\DivisionTesting.cs",
+              "RelativeToolTip": "Calculation\\DivisionTesting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:43:25.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
